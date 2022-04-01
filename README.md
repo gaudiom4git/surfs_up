@@ -13,13 +13,12 @@ December (multiple years).
 
 ## Results
 Here is a side by side glance of the statistics for June and December:
-
+![June Dec Stats](https://github.com/gaudiom4git/surfs_up/blob/main/Resources/June%20and%20December%20Stats.png)
 
 Three key differences in weather between June and December
 *  There were 1700 observations in June versus 1517 observations in December. 
-*   Min 15 degrees lower than average in Dec.   Min is 10 degrees lower than avg in June
+*  Min 15 degrees lower than average in Dec.   Min is 10 degrees lower than avg in June
 *  Standard deviation across the temps in December are much wider than in June.
-
 
 ## Summary
 High level summary of results 
