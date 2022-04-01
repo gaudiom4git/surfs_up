@@ -12,17 +12,17 @@ max/min, and median temperatures for the area.   Data extracted and analyzed wer
 December (multiple years).
 
 ## Results
-Here is a side by side glance of the statistics for June and December:
+Here are the statistics for June.
 
+Here are the statistics for December.
 
 Three key differences in weather between June and December
-*  There were 1700 observations in June versus 1517 observations in December. 
-*   Min 15 degrees lower than average in Dec.   Min is 10 degrees lower than avg in June
-*  Standard deviation across the temps in December are much wider than in June.
+*
+*
+*
 
 
 ## Summary
 High level summary of results 
 
 Two additional queries to gather more weather data for June and December
-ImmutableColumnCollection(measurement.id, measurement.station, measurement.date, measurement.prcp, measurement.tobs)
