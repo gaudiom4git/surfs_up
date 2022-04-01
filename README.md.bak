@@ -23,5 +23,17 @@ Three key differences in weather between June and December
 ## Summary
 High level summary of results 
 
-Two additional queries to gather more weather data for June and December
-ImmutableColumnCollection(measurement.id, measurement.station, measurement.date, measurement.prcp, measurement.tobs)
+Overall, the weather in Hawaii seems very consistent between June and December.   Average temperatures for both 
+months were 75 for June and 71 for December, so a 4 degree difference.  Even the max temperatures for both 
+were only 2 degrees apart.  However, the minimum temperatures are a concern.   56 degrees in December may turn
+out lower crowds coming out to surf resulting in lower potential customers in the shop.
+
+### Two additional queries to gather more weather data for June and December
+
+*  A query to gather precipitation totals for June and December can also help with determining crowds in the
+area for those months.   This can help with planning labor and materials.   Can also be a factor in deciding
+if this business location will be a viable location.
+
+*  Another helpful query would be to get temperature and precipitation by day of the week.   This can also help
+with planning business hours as well as labor and materials resource planning.
+

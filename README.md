@@ -21,7 +21,7 @@ Three key differences in weather between June and December
 *  Standard deviation across the temps in December are much wider than in June.
 
 ## Summary
-High level summary of results 
+### High level summary of results 
 
 Overall, the weather in Hawaii seems very consistent between June and December.   Average temperatures for both 
 months were 75 for June and 71 for December, so a 4 degree difference.  Even the max temperatures for both 
